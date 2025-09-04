@@ -22,3 +22,13 @@
 ### Jonathan Miranda
 ###### Estamos aprendiendo a usar git
 ![](assets/progra.jpg)
+
+## Principios de Diseño
+### Roberto Melo
+###### Estamos aprendiendo a usar photoshop.
+![](assets/photo.jpg)
+
+## Proyecto App
+### Eduardo Guerrero
+###### Estamos aprendiendo desarollar un juego web.
+![](image.png)
