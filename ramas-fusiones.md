@@ -1,6 +1,13 @@
 # Asignaturas 3DEVs
-## Proyecto de App
-### Eduardo Guerrero
-###### Estamos planeando el desarrollo de un videojuego.
+## Ingles
+### Emilia
+### Estamos aprendiendo el verbo to be.
 
-![](assets/app.jpg)
+![](assets/ingles.jpg)
+
+
+## Diseño de Videojuegos
+### Ana Guadalupe Olivar
+###### Estamos aprendiendo a desarrollar la narrativa en los videojuegos.
+
+![](assets/diseño.jpg)
