@@ -23,3 +23,4 @@ Me gustaría trabajar como desarrollador de software o especializándome en el a
 
 ## Entregables
 - [Práctica 1](./mds/apuntes.md)
+- [Práctica 2](ramas-fusiones.md)

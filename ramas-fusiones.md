@@ -31,4 +31,4 @@
 ## Proyecto App
 ### Eduardo Guerrero
 ###### Estamos aprendiendo desarollar un juego web.
-![](image.png)
+![](assets/image.png)
