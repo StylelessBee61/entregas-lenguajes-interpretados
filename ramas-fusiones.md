@@ -11,3 +11,10 @@
 ###### Estamos aprendiendo a desarrollar la narrativa en los videojuegos.
 
 ![](assets/diseño.jpg)
+=======
+## Sistemas Operativos
+### Alcides Albora
+###### Como instalar Ubuntu y los sitemas que tiene una computadora.
+
+![](assets/sistemas.jpg)
+
