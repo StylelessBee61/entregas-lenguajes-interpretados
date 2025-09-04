@@ -25,6 +25,7 @@ En el futuro me gustaría trabajar como desarrollador de software o especializá
 - [Práctica 1](./mds/apuntes.md)
 
 
+## Entregables
 - [Práctica 2](ramas-fusiones.md)
 
 
