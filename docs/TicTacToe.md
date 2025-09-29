@@ -108,5 +108,8 @@ El juego debe funcionar completamente en el navegador sin dependencias externas.
 https://chatgpt.com/share/68da4400-de50-8006-9c5d-e64d782435c4
 
 
+## Enlace Git Hub Pages
+
+ Este es el [enlace](https://stylelessbee61.github.io/entregas-lenguajes-interpretados/tictactoe.html) de mi juego terminado de la practica 7.
 
 

@@ -27,3 +27,5 @@ Me gustaría trabajar como desarrollador de software o especializándome en el a
 - [Práctica 3](mds/etiquetas.md)
 - [Práctica 4](mds/primer-pacial.md)
 - [Práctica 6 y 7 "tic tac toe"](docs/TicTacToe.md)
+
+- Este es el [enlace](https://stylelessbee61.github.io/entregas-lenguajes-interpretados/tictactoe.html) de mi juego de la practica 7.
