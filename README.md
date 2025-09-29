@@ -26,3 +26,4 @@ Me gustaría trabajar como desarrollador de software o especializándome en el a
 - [Práctica 2](ramas-fusiones.md)
 - [Práctica 3](mds/etiquetas.md)
 - [Práctica 4](mds/primer-pacial.md)
+- [Práctica 6 y 7 "tic tac toe"](docs/TicTacToe.md)
